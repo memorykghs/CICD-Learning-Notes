@@ -3,6 +3,8 @@
 
 * 圈內大神 [ Sameer Naik 的 github](https://github.com/sameersbn/docker-gitlab)
 
+* 官網[安裝說明](https://docs.gitlab.com/ee/install/docker.html)
+
 ## Install GitLab
 1. 可以在網站上確認要拉的 gitLab image 版本及內容。
     ![](/images/gitlab/1-1.png)
@@ -41,7 +43,7 @@
     如果網頁出現 `502` 的話，多重新整理幾次應該就可以了。沒帳號就註冊之後登入即可。
 
 ## Q & A
-> 1. 不知道為什麼登入的時候一值被擋在門外QQ
+> 1. 不知道為什麼登入的時候一直被擋在門外QQ
 
  ![](/images/gitlab/1-5.png)
 
